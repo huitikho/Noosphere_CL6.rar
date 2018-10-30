@@ -1,2 +1,3 @@
 # Noosphere_CL6.rar
-Analyzing of Traffic - transactions and request in Network
+
+The module contains coding which tries to analyze the traffic and retrieve the information for intrusion detection against some network attack. 
